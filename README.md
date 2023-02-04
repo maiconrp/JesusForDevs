@@ -1,5 +1,7 @@
 # Jesus For Devs
 
+```Versículo do Dia```: *"O príncipe, porém, terá a sua parte deste e do outro lado da área santa, e da possessão da cidade, diante da santa oferta, e em frente da possessão da cidade, desde o extremo ocidental até o extremo oriental, e de comprimento, corresponderá a uma das porções, desde o termo ocidental até ao termo oriental.* **Ezequiel 45:7**
+
 ## Introdução
 Este repositório tem como objetivo apresentar Jesus Cristo aos desenvolvedores e mostrar a verdadeira fé cristã, quebrando visões equivocadas e estereotipadas. Aqui, você encontrará informações sobre a vida e ensinamentos de Jesus, além de histórias inspiradoras e recursos para ajudar a aprofundar sua fé.
 
